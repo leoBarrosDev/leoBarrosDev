@@ -32,7 +32,7 @@
   <a href="mailto:leohbr@gmail.com@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gmail]" /></a>
   
-  <a href="//https://github.com/leoBarrosDev" alt="GitHub">
+  <a href="https://github.com/leoBarrosDev/" alt="GitHub">
   <img src="https://img.shields.io/github/followers/G0nz4g4?label=follow&style=social" /></a>
 </p>
 
