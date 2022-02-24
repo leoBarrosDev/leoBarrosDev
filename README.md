@@ -1,4 +1,4 @@
-<img align="right" width="200" src="https://i.pinimg.com/originals/e7/26/79/e726790a4471bf771235c6f732e103ae.gif">
+<img align="right" width="90" src="https://i.pinimg.com/originals/39/dc/5b/39dc5b57d6cd3dc2835bf82906ce6d95.gif">
  
 ## welcome to the profile of Leandro Barros 👋
 
