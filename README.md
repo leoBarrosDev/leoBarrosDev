@@ -13,7 +13,7 @@
   
 ## ⚙ Technologies
  
-<img align="right" width="130" src="https://thumbs.gfycat.com/SmoothEveryAntlion.webp">
+<img align="right" width="150" src="https://thumbs.gfycat.com/SmoothEveryAntlion.webp">
   
  <p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
