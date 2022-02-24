@@ -1,6 +1,6 @@
+ <img align="right"  width="190" src="https://user-images.githubusercontent.com/56005421/155453979-a33682db-e5c4-46ea-abf8-7eb0370b5a5e.gif">
+ 
 ## welcome to the profile of Leandro Barros 👋
-
- <img align="right"  width="150" src="https://user-images.githubusercontent.com/56005421/155453979-a33682db-e5c4-46ea-abf8-7eb0370b5a5e.gif">
 
 <img height="290" width="850" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6e898a57148971.59ca9a59ea57e.gif">
 
