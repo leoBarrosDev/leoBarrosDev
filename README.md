@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://i.pinimg.com/originals/87/5b/e6/875be646d129d260ae13c6fd1e939cec.gif">
+<img align="right" width="100" src="https://thumbs.gfycat.com/SmoothEveryAntlion.webp">
  
 ## welcome to the profile of Leandro Barros 👋
 
