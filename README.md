@@ -2,6 +2,7 @@
 
 <img height="290" width="850" src="https://cdna.artstation.com/p/assets/images/images/018/990/420/original/pixel-jeff-noodles.gif?1561540714">
 
+<img align="right" src="https://static.wikia.nocookie.net/streetfighter/images/4/49/File-RyuSpecial.gif/revision/latest/scale-to-width-down/366?cb=20100102124142">
 
 ## status
 
