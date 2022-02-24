@@ -5,8 +5,6 @@
 
 ## status
 
-- <img align="center" alt="comp" height="20" width="20" src="https://cdn.discordapp.com/attachments/696749484012601344/899846768789958677/computer-screen.png"> GitHub Profile Stats
-
 <div align="center">
   <a href="https://github.com/leoBarrosDev">
   <img height="105em" src="https://github-readme-stats.vercel.app/api?username=leoBarrosDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
