@@ -1,6 +1,6 @@
 ## welcome to the profile of Leandro Barros 👋
 
-<img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/018/990/420/original/pixel-jeff-noodles.gif?1561540714">
+<img height="290" width="850" src="https://cdna.artstation.com/p/assets/images/images/018/990/420/original/pixel-jeff-noodles.gif?1561540714">
 
 <!--
 **leoBarrosDev/leoBarrosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
