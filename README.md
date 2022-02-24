@@ -1,6 +1,6 @@
 ## welcome to the profile of Leandro Barros 👋
 
-<img height="290" width="850" src="https://cdna.artstation.com/p/assets/images/images/018/990/420/original/pixel-jeff-noodles.gif?1561540714">
+<img height="290" width="850" src="https://1.bp.blogspot.com/-wtSOPMPBR10/V4yw76ua6sI/AAAAAAAAEzo/0pQtVQJW7bM3EGfuZGZEatz52k7y44m5gCKgB/s1600/streetfighter-animation.gif">
 
 ## status
 
