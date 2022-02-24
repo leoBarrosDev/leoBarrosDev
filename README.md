@@ -20,5 +20,19 @@
   <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
   </p>
  
-## 📩 Social Networks
+## 📢 Social Networks
+
+<p align="left">
+   <a href="https://instagram.com/leo_hbarros/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[instagram]"/></a>
+  
+   <a href="https://www.linkedin.com/in/leobarrosdev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin]" /></a>                                                                                                                                            
+   
+  <a href="mailto:leohbr@gmail.com@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[gmail]" /></a>
+  
+  <a href="//https://github.com/leoBarrosDev" alt="GitHub">
+  <img src="https://img.shields.io/github/followers/G0nz4g4?label=follow&style=social" /></a>
+</p>
 
