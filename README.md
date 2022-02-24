@@ -1,6 +1,6 @@
 ## welcome to the profile of Leandro Barros 👋
 
-<img height="290" width="850" src="https://1.bp.blogspot.com/-wtSOPMPBR10/V4yw76ua6sI/AAAAAAAAEzo/0pQtVQJW7bM3EGfuZGZEatz52k7y44m5gCKgB/s1600/streetfighter-animation.gif">
+<img height="290" width="850" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6e898a57148971.59ca9a59ea57e.gif">
 
 ## status
 
