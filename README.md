@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome to the profile of Leandro Barros 👋
 
 <img height="240" width="850" src="https://cdna.artstation.com/p/assets/images/images/018/990/420/original/pixel-jeff-noodles.gif?1561540714">
 
