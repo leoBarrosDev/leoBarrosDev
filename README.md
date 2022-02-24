@@ -1,4 +1,4 @@
- <img align="right"  width="170" src="https://user-images.githubusercontent.com/56005421/155453979-a33682db-e5c4-46ea-abf8-7eb0370b5a5e.gif">
+ <img align="right"  width="160" src="https://user-images.githubusercontent.com/56005421/155453979-a33682db-e5c4-46ea-abf8-7eb0370b5a5e.gif">
  
 ## welcome to the profile of Leandro Barros 👋
 
