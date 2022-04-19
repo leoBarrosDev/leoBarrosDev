@@ -1,4 +1,4 @@
-## welcome to the profile of Leandro Barros <img width="25" src="https://user-images.githubusercontent.com/56005421/164017888-81146810-1e1b-4383-ab52-777c5333f065.png">
+## Welcome to the profile of Leandro Barros <img width="25" src="https://user-images.githubusercontent.com/56005421/164017888-81146810-1e1b-4383-ab52-777c5333f065.png">
 
 <img height="250" width="850" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 
