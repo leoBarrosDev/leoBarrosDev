@@ -33,7 +33,6 @@
    <p>
   <img align="center" alt="nestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
  </p>
- <br/>
   
 ## 📢 Social Networks
 
