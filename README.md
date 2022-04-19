@@ -1,6 +1,6 @@
 ## welcome to the profile of Leandro Barros 👋
 
-<img height="250" width="850" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/6e898a57148971.59ca9a59ea57e.gif">
+<img height="250" width="850" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433">
 
 - 🌎 I'm from Igarassu, PE - Brasil
 - 👨🏽‍💻 Trainee developer at **compassoUOL**
