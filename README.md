@@ -13,13 +13,26 @@
   
 ## ⚙ Technologies
  
-<img align="right" width="150" src="https://thumbs.gfycat.com/SmoothEveryAntlion.webp">
+
   
+ > 📚 languages 
+ 
  <p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nodeJs" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
-  </p>
+  </p><br/>
  
+  <br/>
+  
+  <img align="right" width="150" src="https://thumbs.gfycat.com/SmoothEveryAntlion.webp">
+  
+ > 🧠 Frameworks
+   <p>
+  <img align="center" alt="nestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+ </p>
+ <br/>
+  
 ## 📢 Social Networks
 
 <p align="left">
